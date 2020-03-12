@@ -43,3 +43,6 @@ src/example.ts(13,7): error TS2345: Argument of type '{ toString: () => string; 
     at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
     at Function.Module._load (internal/modules/cjs/loader.js:585:3)
 ```
+
+# Screenshot
+![screenshot](https://raw.githubusercontent.com/tomlla/reproduce-composition-api-date-type-deformation/master/ss/type-of-date-property.jpg?token=ACH4ARWOGBBFT7VI3A5FN5C6NKIBA)
