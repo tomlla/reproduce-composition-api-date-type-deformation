@@ -45,4 +45,4 @@ src/example.ts(13,7): error TS2345: Argument of type '{ toString: () => string; 
 ```
 
 # Screenshot
-![screenshot](https://raw.githubusercontent.com/tomlla/reproduce-composition-api-date-type-deformation/master/ss/type-of-date-property.jpg?token=ACH4ARWOGBBFT7VI3A5FN5C6NKIBA)
+![type-of-date-property](https://user-images.githubusercontent.com/9420870/76561214-2c7f0900-64e6-11ea-87fa-b0e183bf6bea.jpg)
