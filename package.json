@@ -1,0 +1,16 @@
+{
+  "name": "reproduce-composition-api-date-type-deformation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/composition-api": "^0.4.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3"
+  }
+}
